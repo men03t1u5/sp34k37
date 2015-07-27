@@ -39,7 +39,7 @@ print r"""
            $.d$$$*                           *  J$$$e*
             '''                              "$$$"
 """
-print "\t\t\tSP34K37"
+print "\t\t\tSP34K37 V 1.0"
 print
 print "\t\tCause every shell needs a voice!\n\n"
 print
